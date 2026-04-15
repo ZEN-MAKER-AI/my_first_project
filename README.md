@@ -1,1 +1,1 @@
-# my_first_project
+# About my first project on GitHub
